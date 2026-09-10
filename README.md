@@ -1,0 +1,2 @@
+# LordJEMOKinetics
+Kinetics Package
