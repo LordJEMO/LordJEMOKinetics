@@ -1,8 +1,12 @@
 {
-  "name": "MyPackage.Runtime",
-  "rootNamespace": "MyPackage",
-  "references": [],
-  "includePlatforms": [],
+  "name": "LordJEMO.Kinematics.Editor",
+  "rootNamespace": "LordJEMO.Kinematics.Editor",
+  "references": [
+    "LordJEMO.Kinematics"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
   "excludePlatforms": [],
   "allowUnsafeCode": false,
   "overrideReferences": false,

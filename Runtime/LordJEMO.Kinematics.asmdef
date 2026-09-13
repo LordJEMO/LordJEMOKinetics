@@ -1,0 +1,27 @@
+{
+    "name": "LordJEMO.Kinematics",
+    "rootNamespace": "LordJEMO.Kinematics",
+    "references": [
+        "Unity.Mathematics",
+        "Unity.Collections",
+        "Unity.Burst",
+        "Unity.Jobs",
+        "Unity.Entities",
+        "Unity.Transforms"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.entities",
+            "expression": "1.0.0",
+            "define": "KINEMATICS_ENTITIES"
+        }
+    ],
+    "noEngineReferences": false
+}

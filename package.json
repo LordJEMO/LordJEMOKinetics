@@ -1,31 +1,18 @@
 {
-  "name": "com.company.mypackage",
-  "version": "1.0.0",
-  "displayName": "My Package",
-  "description": "A short description of the package.",
+  "name": "com.lordjemo.kinetics",
+  "version": "0.0.1",
+  "displayName": "LordJEMO Kinematics",
+  "description": "Kinematics and trajectory system: kinetic managers, trajectory groups, jobs/Burst batch updates, and DOTS/Entities integration.",
   "unity": "2021.3",
-  "unityRelease": "0f1",
-  "documentationUrl": "https://example.com/my-package",
-  "changelogUrl": "https://example.com/my-package/changelog",
-  "licensesUrl": "https://example.com/my-package/license",
-  "license": "MIT",
-  "author": {
-    "name": "Company Name",
-    "url": "https://example.com"
-  },
-  "dependencies": {
-    "com.unity.textmeshpro": "3.0.6"
-  },
-  "keywords": [
-    "sample",
-    "example"
-  ],
   "type": "library",
-  "samples": [
-    {
-      "displayName": "Sample Scene",
-      "description": "A sample scene demonstrating how to use the package.",
-      "path": "Samples~/SampleScene"
-    }
-  ]
+  "keywords": [
+    "kinematics",
+    "trajectory",
+    "physics",
+    "jobs",
+    "entities"
+  ],
+  "author": {
+    "name": "LordJEMO"
+  }
 }

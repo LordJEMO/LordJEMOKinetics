@@ -1,9 +1,13 @@
 {
-  "name": "MyPackage.Tests.Editor",
-  "rootNamespace": "MyPackage.Tests.Editor",
+  "name": "LordJEMO.Kinematics.Tests.Editor",
+  "rootNamespace": "LordJEMO.Kinematics.Tests",
   "references": [
-    "MyPackage.Runtime",
-    "MyPackage.Editor"
+    "LordJEMO.Kinematics",
+    "LordJEMO.Kinematics.Editor",
+    "UnityEngine.TestRunner",
+    "UnityEditor.TestRunner",
+    "Unity.Mathematics",
+    "Unity.Collections"
   ],
   "includePlatforms": [
     "Editor"
